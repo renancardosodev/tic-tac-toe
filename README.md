@@ -60,9 +60,11 @@ If you want to contribute to the development of this project, follow the steps b
 
 ## Screenshots
 
-![Screenshot 1](img/print-tic-tac-toe-01.png)
-![Screenshot 2](img/print-tic-tac-toe-02.png)
-![Screenshot 3](img/print-tic-tac-toe-03.png)
+<div style="display: flex; justify-content: space-between;">
+  <img src="img/print-tic-tac-toe-02.png" alt="Screenshot 2" width="48%">
+  <img src="img/print-tic-tac-toe-03.png" alt="Screenshot 3" width="48%">
+</div>
+
 
 ## Development Environment
 
